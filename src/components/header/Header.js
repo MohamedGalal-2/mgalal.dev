@@ -79,6 +79,16 @@ function Header() {
           <li>
             <a href="#contact">Contact Me</a>
           </li>
+		  <li>
+			<a
+				href="https://www.fun.mgalal.dev"
+				target="_blank"
+				rel="noopener noreferrer"
+				className="fun-zone-link"
+			>
+				<span role="img" aria-label="game">🎮</span> Fun Zone
+			</a>
+		  </li>
           <li>
             {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
             <a>
